@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h1 align="center">Hi 👋, I'm Myos</h1>
 <h3 align="center">I'm learning Frontend and Backend technologies.</h3>
 
 - 🌱 I’m currently learning **React, Redux, Tailwind CSS, Nodejs, Golang, etc...**
