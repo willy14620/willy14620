@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Nodejs, React, Python, Java, Tailwind CSS, etc...**
 
-- 📝 I regularly write articles on [https://willy14620.github.io](https://willy14620.github.io)
+- 📝 I regularly write articles on [https://myoschen.github.io](https://myoschen.github.io)
 
 - 📫 How to reach me **willy14620@gmail.com**
 
