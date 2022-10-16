@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Myos</h1>
 <h3 align="left">I'm learning Frontend and Backend technologies.</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, Nodejs, React, Python, Java, Tailwind CSS, etc...**
+- 🌱 I’m currently learning **JavaScript, TypeScript, Nodejs, React, Vue, Python, Tailwind CSS, etc...**
 
 - 📝 I regularly write articles on [https://myoschen.github.io](https://myoschen.github.io)
 
