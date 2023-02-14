@@ -12,23 +12,20 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" width="42" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="42" alt="electron logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-</div>
+[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://developer.mozilla.org/zh-TW/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://developer.mozilla.org/zh-TW/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
+[![React](https://skillicons.dev/icons?i=react&theme=light)](https://zh-hant.reactjs.org/)
+[![Redux](https://skillicons.dev/icons?i=redux&theme=light)](https://redux.js.org/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=light)](https://tailwindcss.com/)
+[![Electron](https://skillicons.dev/icons?i=electron&theme=light)](https://www.electronjs.org/)
+[![Vite](https://skillicons.dev/icons?i=vite&theme=light)](https://vitejs.dev/)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en/)
+[![Express](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=light)](https://firebase.google.com/)
+[![Mongodb](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
 
 ###
 
