@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=320&text=Hi%20👋,%20I'm%20Myos&fontSize=60&fontAlignY=40&desc=🔥%20A%20passionate%20front-end%20developer&descAlignY=55&color=gradient)](https://github.com/kyechan99/capsule-render)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=320&text=Hi%20👋,%20I'm%20Myos&fontAlignY=40&desc=✨%20Frontend%20Developer&descAlignY=60&color=gradient&customColorList=20&animation=fadeIn)](https://github.com/kyechan99/capsule-render)
 
 ###
 
