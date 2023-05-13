@@ -1,4 +1,8 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=320&text=Hi%20👋,%20I'm%20Myos&fontAlignY=40&desc=✨%20Frontend%20Developer&descAlignY=60&color=gradient&customColorList=20&animation=fadeIn)](https://github.com/kyechan99/capsule-render)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=4000&pause=1500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Myos!;%E2%9C%A8+Frontend+Developer)](https://git.io/typing-svg)
+
+<a href="https://github.com/kyechan99/capsule-render">
+  <img style="border-radius: 1rem;margin-top: -2rem;" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer" alt="Header"/>
+</a>
 
 <hr />
 
