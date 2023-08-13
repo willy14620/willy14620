@@ -1,33 +1,56 @@
-<p align="center">
-  <a href="https://github.com/kyechan99/capsule-render](https://git.io/typing-svg)">
-    <img src="https://readme-typing-svg.demolab.com?font=Work+Sans&weight=700&size=36&duration=4000&pause=1500&color=5D699B&background=FFFFFF00&center=true&vCenter=true&width=756&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Myos!;%E2%9C%A8+Frontend+Developer" alt="Typing SVG"/>
-  </a>
-  <a href="https://github.com/kyechan99/capsule-render">
-    <img style="border-radius: 1rem;margin-top: -2rem;" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&section=footer" alt="Header"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Myos</h1>
+
+<div align="center">
+  <h3 align="center">A Passionate Front-End Developer</h3>
+  <img src="https://visitcount.itsvg.in/api?id=Myoschen&icon=0&color=12" />
+</div>
 
 <hr />
 
-<p align="center">
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=Myoschen&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox"/>
-  </a>
-  <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,ts,python,rust,go&frameworks=vue,react,next,electron,tailwind,express&tools=git,npm,firebase,mongodb,vercel,nodejs&theme=dark" alt="GitHub WidgetBox" />
-  <a/>
-</p>
+<h3>Languages</h3>
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<h3>Frameworks & Libraries</h3>
+
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<h3>UI Libraries</h3>
+
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/>
+
+<h3>BaaS</h3>
+
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+<h3>Databases</h3>
+
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <hr />
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="52.5%" src="https://github-readme-stats-myoschen.vercel.app/api?username=Myoschen&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c" alt="Myoschen's GitHub Stats" />
+    <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=Myoschen&count_private=true&show_icons=true&theme=dark&hide_border=true&rank_icon=github&custom_title=Github%20Stats&bg_color=16161c" alt="Myoschen's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" src="https://github-readme-stats-myoschen.vercel.app/api/top-langs/?username=Myoschen&layout=compact&langs_count=6&theme=dark&hide_border=true&custom_title=Top%20Languages&bg_color=16161c" alt="Myoschen's Top Langs" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myoschen&layout=compact&langs_count=6&theme=dark&hide_border=true&custom_title=Top%20Languages&bg_color=16161c" alt="Myoschen's Top Langs" />
   </a>
-</p>
+</div>
 
 <hr />
 
