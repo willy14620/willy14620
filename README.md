@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="center">A Passionate Front-End Developer</h3>
-  <img src="https://visitcount.itsvg.in/api?id=Myoschen&icon=0&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=Myoschen&style=flat-square&color=46856A" />
 </div>
 
 <hr />
