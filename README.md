@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="center">A Passionate Front-End Developer</h3>
-  <img src="https://komarev.com/ghpvc/?username=Myoschen&style=flat-square&color=46856A" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Myoschen&label=visitors&labelColor=%23333333&countColor=%2346856a&style=flat-square&labelStyle=lower" />
 </div>
 
 <hr />
